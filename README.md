@@ -3,8 +3,11 @@
 **`Digital Craftsman (Developer)`**
 
 👋 Greetings, world! Telasja Reynolds here, swapping my recruiter hat for a coding cap as I embark on a thrilling journey through the realms of software engineering.
+
 💻 Armed with a recruiter's eye for talent and a newfound love for code, I'm on a mission to transform zeros and ones into ingenious solutions that make waves in the digital universe.
+
 🔍 When I'm not debugging or dreaming in code, you can catch me pondering the intricacies of human behavior, perfecting my latte art, or plotting my next great adventure. After all, life's too short not to pursue every passion with gusto!
+
 🚀 So, fellow travelers in the vast expanse of cyberspace, let's join forces, push boundaries, and craft software that not only solves problems but sparks joy in the hearts of users everywhere.
 
 ---
